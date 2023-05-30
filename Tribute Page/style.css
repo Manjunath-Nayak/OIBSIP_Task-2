@@ -1,0 +1,17 @@
+.image{
+    height: 360px;
+    width: 300px;
+}
+.g{
+    font-weight: bold;
+}
+.r{
+    background-color: aliceblue;
+    color: black;
+}
+.matter{
+    margin-left: 100px;
+}
+.heading-top{
+    font-size: 80px;
+}
